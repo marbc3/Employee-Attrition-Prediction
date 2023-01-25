@@ -28,7 +28,7 @@ Kaynak: https://www.kaggle.com/datasets/patelprashant/employee-attrition
 * **MARITAL STATUS**: Çalışanın evlilik durumu
 * **MONTHLY INCOME**: Çalışanın aylık maaşı
 * **MONTLHY RATE**: Çalışanın aylık maaş seviyesi
-* **NUMCOMPANIES WORKED: Çalışanın çalıştığı şirket sayısı
+* **NUMCOMPANIES WORKED**: Çalışanın çalıştığı şirket sayısı
 * **OVER 18**: Çalışan 18 yaşından büyük mü?
 * **OVERTIME**: Mesai bilgisi
 * **PERCENT SALARY HIKE**: Maaştaki yüzdelik artış
