@@ -4,7 +4,7 @@
 * Çalışan hakkında elimizde yeterli veri bulunduğunda bu çalışanın işten ayrılıp ayrılmayacağını tahmin eden ve ayrılma olasılığı en yüksek olan çalışanları belirleyebileceğimiz bir makine öğrenmesi modeli geliştirebilir miyiz?
 * Çalışanların ayrılmasında hangi faktörler etkilidir?
 * Şirketin, işten ayrılan kişilerin şirkete uzaklığı ayrılmayan kişilere göre daha fazla olduğuna dair bir hipotezi var. Bu hipotezi test edebilir miyiz?
-* Şirketin, çalışanların mesai durumu ve işten ayrılmaları arasında bir ilişki olduğuna dair hipotezi var.  Bu hipotezi test edebilir miyiz?
+* Şirketin, çalışanların mesai durumu ve işten ayrılmaları arasında pozitif bir ilişki olduğuna dair hipotezi var.  Bu hipotezi test edebilir miyiz?
 * Şirketin, ayrılmayan çalışanların aldığı ortalama zam oranının ayrılan çalışanların aldığı ortalama zam oranından daha fazla olduğuna dair bir hipotezi var, bu durumda çalışanların aldığı mevcut zam oranının üzerine %5 oranında bir zam yapmayı daha düşünüyorlar. Bu hipotezi test edebilir miyiz ve yapılması düşünülen zammın doğru bir hamle olup olmayacağına dair neler söyleyebiliriz?
 # Veri Seti
 Veri setimiz toplamda 1470 satırdan ve 35 değişkenden oluşmaktadır.
